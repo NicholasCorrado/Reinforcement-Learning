@@ -1,7 +1,5 @@
 # Reinforcement-Learning
 
-## Surverys
-
 * policy-gradient-methods-survey: A short 8 page survey of policy gradient methods including some recent 2019/2020 convergence results
 
 TODO:
